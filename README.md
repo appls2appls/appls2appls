@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm appls2appls appls2appls</h1>
+<h1 align="center">Hi 👋, I'm appls2appls</h1>
 - 🔭 I’m currently working on [A discord.js bot](https://github.com/appls2appls/My-Discord-Bot)
 
 - 🌱 I’m currently learning **discord.py and vue**
