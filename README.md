@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm appls2appls</h1>
-- 🔭 I’m currently working on [A discord.js bot](https://github.com/appls2appls/My-Discord-Bot)
+- 🔭 I’m currently working on a discord bot and other various projects
 
-- 🌱 I’m currently learning **discord.py and vue**
+- 🌱 I’m currently learning **vue**
 
-- ⚡ Fun fact **I dunno**
+- ⚡ Fun fact **The**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=appls2appls&show_icons=true" alt="appls2appls" /></p>
 
