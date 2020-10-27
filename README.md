@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm appls2appls</h1>
-- 🔭 I’m currently working on a discord bot and other various projects
+- 🔭 I’m currently working on random dumb projects
 
-- 🌱 I’m currently learning **vue**
+- 🌱 I’m currently learning **something**
 
-- ⚡ Fun fact **The**
+- ⚡ Fun fact **My github is ded**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=appls2appls&show_icons=true" alt="appls2appls" /></p>
 
