@@ -3,7 +3,7 @@
 
 
 
-- 🤔 I’m currently working on [a website](appls.thedev.id)
+- 🤔 I’m currently working on [a website](appls2appls.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
